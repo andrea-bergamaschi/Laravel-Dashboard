@@ -27,9 +27,13 @@
                 <h1>Gym Services</h1>
                 <div>
                     <x-application-logo class="h-10 w-auto text-gray-600" />
-                    Homepage
                 </div>
                 <p>Choose the gym that fits YOU!</p>
+                <p>
+                    Use these credentials for testing the platform as admin:
+                    Email: admin@admin.admin <br>
+                    Password: 12345678
+                </p>
             </div>
 
             @if (Route::has('login'))
