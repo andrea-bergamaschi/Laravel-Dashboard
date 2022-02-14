@@ -25,7 +25,10 @@
         <div class="relative text-center min-h-screen bg-gray-100 dark:bg-gray-900 py-4">
             <div class="px-6 py-4">
                 <h1>Gym Services</h1>
-                <x-application-logo class="h-10 w-auto text-gray-600" />
+                <div>
+                    <x-application-logo class="h-10 w-auto text-gray-600" />
+                    Homepage
+                </div>
                 <p>Choose the gym that fits YOU!</p>
             </div>
 
