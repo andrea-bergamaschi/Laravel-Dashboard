@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="container flex justify-center mx-auto text-center">
+<div class="container justify-center mx-auto text-center">
     <div class="flex flex-col">
         <div class="w-full">
             <div class="border-b border-gray-200 shadow">
