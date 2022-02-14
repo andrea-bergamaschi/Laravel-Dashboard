@@ -21,7 +21,7 @@ class GymSeeder extends Seeder
             ['Kung Fu Palestra', 'Torino'],
             ['Sporting Club', 'Venezia'],
             ['The Gym Top 45', 'Milano'],
-            ['Er meglio Gym', 'Aosta'],
+            ['Best Gym', 'Aosta'],
         ];
 
         foreach ($gyms as $gym) {
