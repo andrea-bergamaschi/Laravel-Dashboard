@@ -30,7 +30,7 @@
                 </div>
                 <p>Choose the gym that fits YOU!</p>
                 <p>
-                    Click Login and use these credentials for entering as admin (recommended):<br>
+                    Click Login and use these credentials for entering as admin (recommended for testing):<br>
                     <b>Email:</b> admin@admin.admin <br>
                     <b>Password:</b> 12345678<br><br>
 
