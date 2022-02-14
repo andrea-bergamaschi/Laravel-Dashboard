@@ -1,6 +1,6 @@
 ## Laravel Users Dashboard
 
-• Laravel 8
+• Laravel 8<br>
 • Authentication, Registration and Middleware through Laravel Breeze
 • Deployed with Heroku and PostegreSQL
 • Models with Eloquent ORM, Views with Blade Template Engine, Controllers to manage CRUD (Create, Read, Update, Delete) and Routes
