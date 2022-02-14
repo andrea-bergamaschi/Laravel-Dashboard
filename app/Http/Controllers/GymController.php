@@ -8,8 +8,8 @@ use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Routing\Controller as BaseController;
 
 use App\Models\Gym;
-use App\models\Service;
-use App\models\GymService;
+use App\Models\Service;
+use App\Models\GymService;
 use Illuminate\Http\Request;
 
 use Illuminate\Support\Facades\Auth;
