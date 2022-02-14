@@ -1,11 +1,12 @@
 ## Laravel Users Dashboard
 
-• Laravel 8
-• Authentication, Registration and Middleware through Laravel Breeze
-• Deployed with Heroku and PostegreSQL
+• Laravel 8.
+
+• Authentication, Registration and Middleware through Laravel Breeze.
+• Deployed with Heroku and PostegreSQL.
 • Models with Eloquent ORM, Views with Blade Template Engine, Controllers to manage CRUD (Create, Read, Update, Delete) and Routes.
-• Seeding the database through Laravel Seeders;
-• Tailwind CSS
+• Seeding the database through Laravel Seeders.
+• Tailwind CSS.
 
 ## Dashboard Utenti Laravel 
 
