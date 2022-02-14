@@ -45,7 +45,8 @@ class GymController extends BaseController
         }      
         
         $services = Service::orderBy('id', 'ASC')->get();
-        return view('crud.create', compact('services'));
+        return redirect('/dashboard');
+        //return view('crud.create', compact('services'));
     }
 
     public function edit(Request $request) {
