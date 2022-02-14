@@ -32,7 +32,10 @@
                 <p>
                     Click Login and use these credentials for entering as admin:<br>
                     <b>Email:</b> admin@admin.admin <br>
-                    <b>Password:</b> 12345678
+                    <b>Password:</b> 12345678<br><br>
+
+                    Or Click Register to create a new account
+
                 </p>
             </div>
 
