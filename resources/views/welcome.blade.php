@@ -31,8 +31,8 @@
                 <p>Choose the gym that fits YOU!</p>
                 <p>
                     Click Login and use these credentials for entering as admin:<br>
-                    Email: admin@admin.admin <br>
-                    Password: 12345678
+                    <b>Email:</b> admin@admin.admin <br>
+                    <b>Password:</b> 12345678
                 </p>
             </div>
 
