@@ -8,6 +8,7 @@
                     <a href="{{ route('dashboard') }}">
                         <x-application-logo class="block h-10 w-auto text-gray-600" />
                     </a>
+                    Homepage
                 </div>
 
                 <!-- Navigation Links -->
